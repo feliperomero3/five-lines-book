@@ -7,11 +7,16 @@ A 2D block-pushing puzzle game similar to the classic Boulder Dash game.
 
 ## Prerequisites
 
-1. Typescript
+- TypeScript
+- Visual Studio Code
+- Edge browser
 
 ## Getting started
 
 1. Clone the project.
+1. Open the root folder on VS Code
+1. From the command palette - Execute: 'Tasks: Run Build Task'.
+1. From the command palette - Execute: 'Debug: Start Debugging'.
 
 ## About the game
 
