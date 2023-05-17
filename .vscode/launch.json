@@ -5,7 +5,8 @@
       "type": "msedge",
       "request": "launch",
       "name": "Open index.html",
-      "file": "c:\\Users\\felip\\GitHub\\five-lines-book\\src\\index.html"
+      "file": "${workspaceFolder}\\src\\index.html",
+      "webRoot": "${workspaceFolder}\\src"
     }
   ]
 }
